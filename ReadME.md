@@ -16,7 +16,7 @@
 
 ## Description
 
-Book Search Engine
+Book Search Engine using react and MongoDB.
 
 ## Usage
 
@@ -27,7 +27,7 @@ npm i
 ```
 
 ```
-npm run dev
+npm run develop
 ```
 
 **[⬆ back to top](#table-of-contents)**
@@ -35,16 +35,28 @@ npm run dev
 ## Screenshots
 
 ```
-
+Login Page
 ```
 
 <br>
-<img src="" alt="" title=""> 
+<img src="./src/assets/login.png" alt="Login Page" title="Login Page"> 
 <br>
 
 ```
+Search Page
+```
+
+<br>
+<img src="./src/assets/search.png" alt="Search Page" title="Search Page"> 
+<br>
 
 ```
+Save Page
+```
+
+<br>
+<img src="./src/assets/saved.png" alt="Save Page" title="Save Page"> 
+<br>
 
 **[⬆ back to top](#table-of-contents)**
 
