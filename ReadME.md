@@ -1,4 +1,4 @@
-# BookSearchEngine
+# BookSearchEngine 📚
 
 [Deployed App Link](https://acf-book-search-engine.herokuapp.com/)
 
